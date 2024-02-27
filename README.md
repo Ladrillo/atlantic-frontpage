@@ -1,18 +1,15 @@
-# React Project
+# The Atlantic
 
-This is a full-stack React starter app, meant for practicing and prototyping.
+Construye una réplica del antiguo periódico norteamericano "The Atlantic".
 
-## ✨ Requirements
+<img src="./frontend/design.png">
+
+## ✨ Requerimientos
 
 1. Node >= 18.x
-2. Git Bash (Windows users)
+2. Git Bash (Windows)
 
-## ✨ Usage
+## ✨ Uso
 
 1. `npm install`
 2. `npm run dev`
-3. `npm test`
-
-See the [package.json file](./package.json) for other scripts.
-
-**Project created with [@bloomtools/react@0.1.37](https://github.com/bloominstituteoftechnology/npm-tools-react) and Node v20.11.0 on Tue, February 27, 2024 at 09:37 PM**
